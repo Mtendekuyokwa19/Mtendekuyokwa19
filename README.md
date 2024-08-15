@@ -1,6 +1,15 @@
-<h2 align="center">Your neighbourhood Linux user.</h2>
+<h2 align="center">Your neighbourhood Ubuntu user.</h2>
 
 ### About Me
-
-*I am currently in school, pushing through a Bachelors degree in Information technology. I have picked up React so expect new projects pretty soon :)* 
-*I spend my free time listening to the naval podcast or late linux podcast. I read philosophy at times. I also love swimiming through hacker news for innovations and updates*
+Welcome to my little corner of the internet, where I like to organize all my chaotic ideas into one chamber called a repository.
+- I am currently powering through react and picking up new technologies like Typescript and tailwind.
+-  I am also a sophomore year student Bachelor's in information technology. 
+- When I am not making commits, I spend my time listening to podcasts like the !(Naval podcasts)[https://nav.al/] and The late night linux podcast.
+- My tech toolbox is ever growing but it currently includes
+> let mtende={
+>    langs:[Java,C++,Javascript, Typescript,Html,css],
+>     Frameworks:[ React, Tailwind]
+>     Operating System:[Linux,windows subsytem linux,windows],
+      Design:[Adobe photoshop, Figma]
+> }
+          
