@@ -9,8 +9,8 @@ Welcome to my little corner of the internet, where I like to organize all my cha
  ```js
 let mtende={
     langs:[Java,C++,Javascript, Typescript,Html,css],
-     Frameworks:[ React, Tailwind]
+     Frameworks:[ React, Tailwind],
      Operating System:[Linux,windows subsytem linux,windows],
       Design:[Adobe photoshop, Figma]
-}```
+}
           
