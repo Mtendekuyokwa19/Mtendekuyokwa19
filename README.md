@@ -5,6 +5,8 @@ Welcome to my little corner of the internet, where I like to organize all my cha
 - I am currently powering through React and picking up new technologies like Typescript and tailwind.
 -  I am also a sophomore-year student, Bachelor's in information technology. 
 - When not making commits, I listen to podcasts like the [Naval podcast](https://nav.al/) and The late night linux podcast.
+- I am very intrested in LLMs and firmly believe self-hosted AI is the future.
+   > I am currently running gemma2:2b locally. And I plan to blog about my experience in the near future :)
 - My tech toolbox is ever growing but it currently includes
 
  ```js
